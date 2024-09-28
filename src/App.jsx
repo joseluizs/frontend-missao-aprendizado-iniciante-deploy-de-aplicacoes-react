@@ -26,14 +26,14 @@ function App() {
     evoluiPara: 'C++'
   }
 
-  // const cmais = {
-  //   nome: 'C++',
-  //   imagem: 'https://www.salvatore.academy/devmon/5_c++.png',
-  //   evoluiPara: 'C#'
-  // }
+  const cplusplus = {
+    nome: 'C++',
+    imagem: 'https://www.salvatore.academy/devmon/5_cpp.png',
+    evoluiPara: 'C#'
+  }
 
 
-  const devmons = [java, kotlin, android, c]
+  const devmons = [java, kotlin, android, c, cplusplus]
 
   return (
     <>
